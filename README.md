@@ -1,2 +1,5 @@
 # ZuriTraining
-Projects undertaken during Zuri Training/Internship
+
+### Responsive Web Design
+
+A test of our knowledge on responsive design
