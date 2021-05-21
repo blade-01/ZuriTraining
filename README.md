@@ -1,2 +1,3 @@
 # ZuriTraining
-Projects undertaken during Zuri Training/Internship
+
+JS Loop and Conditionals
